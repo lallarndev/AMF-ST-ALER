@@ -20,5 +20,5 @@
      ```bash
      python AMF-STEALER.py
      ```
-
+FAKE NEWS
 Following these steps should start the AMF Stealer script successfully.
